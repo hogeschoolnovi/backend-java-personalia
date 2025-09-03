@@ -48,8 +48,7 @@ Maak methodes voor alle variabelen, door er `set` voor te zetten, zoals `public 
 Voor name, age, email, adres, phone, height en weight hebben deze methodes ze zelfde structuur.
 - Als eerst print je wat je van de gebruiker wilt weten.
 - Daarna gebruik je de juiste scanner methode (b.v. `nextLine()` of `nextInt()`) om de input van de gebruiker op te vragen.
-- Vervolgens check je (met een if-statment) of de input aan de **constraint** voldoet.
-- Als laatste sla je de input op in de variabele (of niet, als het niet aan de constraint voldoet)
+- Als laatste sla je de input op in de variabele 
 
 > Tip: zorg er bij elke input voor dat je de gebruiker laat weten of het succesvol was. (door te printen "... is opgeslagen")
 
