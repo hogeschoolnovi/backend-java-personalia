@@ -37,6 +37,12 @@ De applicatie slaat de volgende gegevens van jou op:
 
 ## Stappenplan
 
+### Stap 0
+Open een project met de Main.java uit deze repo. Dit kun je doen op een van de volgende manieren:
+- Hier op de groene `Code` knop te klikken en dan de zip te downloaden. die pak je uit en open je in IntelliJ.
+- Start een nieuw project in IntelliJ en kopieer de code van deze repo naar je eigen Main.java bestand.
+- Als je de git workshop al gevolgd hebt, mag je ook git gebruiken om deze repo te clonen.
+
 ### Stap 1
 Er staat al een variabele voor de scanner en de naam. 
 Definieer variabelen voor de andere variabelen.
